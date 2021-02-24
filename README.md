@@ -1,5 +1,7 @@
 # p5.text
 
+![](p5.text%20banner.png)
+
 p5.js Library for working with rendering text on the Canvas
 
 > Image showing library features
